@@ -11,3 +11,6 @@ Up and runnin'! You only have to specify these four variable in the cpp file :
 If you wan't to store your data online I advise you to use thise website → sql7.freemysqlhosting.net and access your data from here → http://www.phpmyadmin.co. 
 
 Enjoy ! 
+
+![alt text](https://github.com/AntoineDombrecht/MutualComprehension/edit/screenshot.png)
+
