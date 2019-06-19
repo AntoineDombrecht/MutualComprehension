@@ -12,5 +12,5 @@ If you wan't to store your data online I advise you to use thise website → sql
 
 Enjoy ! 
 
-![alt text](https://github.com/AntoineDombrecht/MutualComprehension/screenshot.png)
+![alt text](https://github.com/AntoineDombrecht/MutualComprehension/blob/master/screenshot.png)
 
